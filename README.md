@@ -1,6 +1,6 @@
 # Employee Manager
 
-Employee Manager es un servicio web que permite crear, actualizar, eliminar y listar empleados. Para su implementación, se emplearon las siguientes herramientas:
+Employee Manager es un servicio web que permite crear, actualizar, eliminar y listar empleados. Para su implementación, se utilizaron las siguientes herramientas:
 
 * JDK 11.0.11 (Java 11)
 * Apache Maven 3.6.3
