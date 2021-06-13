@@ -14,10 +14,10 @@ Para ejecutar la aplicación localmente, se recomienda al menos descargar la mis
 ## 1 Contenido
 
 * [2 Probar la aplicación](#2-probar-la-aplicación)
-* [2.1 Usar la aplicación de Heroku](#2-1-usar-la-aplicación-de-heroku)
-* [2.2 Usar la aplicación desde la máquina local](#2-2-usar-la-aplicación-desde-la-máquina-local)
-* [2.3 Configurar la colección de Postman](#2-3-configurar-la-colección-de-postman)
-* [3 Diseño de la aplicación](3-diseño-de-la-aplicación)
+* [2.1 Usar la aplicación de Heroku](#21-usar-la-aplicación-de-heroku)
+* [2.2 Usar la aplicación desde la máquina local](#22-usar-la-aplicación-desde-la-máquina-local)
+* [2.3 Configurar la colección de Postman](#23-configurar-la-colección-de-postman)
+* [3 Diseño de la aplicación](#3-diseño-de-la-aplicación)
 
 ## 2 Probar la aplicación
 
