@@ -34,7 +34,7 @@ Con el propósito de facilitar las pruebas, se desplego la aplicación desarroll
 
 ### 2.2 Usar la aplicación desde la máquina local
 
-Otra forma de probar la aplicación es descargando su código fuente e importándolo en algún IDE, para luego arrancarla con servidores embebidos como Tomcat. En ese sentido los pasos serían los siguientes:
+Otra forma de probar la aplicación es descargando su código fuente e importándolo en algún IDE, para luego arrancarla con servidores embebidos como Tomcat. En ese ámbito, los pasos serían los siguientes:
 
 1. Descargar el proyecto mediante el siguiente enlace [https://github.com/contrerasmiguel/employee-manager/archive/refs/heads/master.zip](https://github.com/contrerasmiguel/employee-manager/archive/refs/heads/master.zip)
 
@@ -74,6 +74,6 @@ Por otro lado, se creó la clase *employeemanager.services.EmployeeServiceImplTe
 
 ### 2.1 Diagrama de clases de la aplicación
 
-Inicialmente se planteó el siguiente diagrama como esqueleto de la estructura de la aplicación. No obstante, durante la implementación se eliminó la clase FiltersDto, asó como se restructuraron los DTO en general, para lograr un modelo más ajustado a las salidas JSON requeridas originalmente. Aún así, el diagrama muestra las tres principales capas de la aplicación, además de la conexión entre ellas.
+Inicialmente se planteó el siguiente diagrama como esqueleto de la estructura de la aplicación. No obstante, durante la implementación se eliminó la clase FiltersDto, así como se restructuraron los DTO en general, para lograr un modelo más ajustado a las salidas JSON requeridas originalmente. Aún así, el diagrama muestra las tres principales capas de la aplicación, además de la conexión entre ellas.
 
 ![Diagrama de clases](https://i.imgur.com/Y1apNqy.jpg)
